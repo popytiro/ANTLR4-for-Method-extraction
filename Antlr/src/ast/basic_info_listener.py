@@ -1,5 +1,6 @@
-from JavaParserListener import JavaParserListener
-from JavaParser import JavaParser
+from ast.JavaParserListener import JavaParserListener
+from ast.JavaParser import JavaParser
+
 
 
 # ★ポイント３
